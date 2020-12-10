@@ -3,3 +3,5 @@ future==0.16.0
 gunicorn==19.7.1
 requests==2.21.0
 opencv-python==4.1.2.30
+deepface=0.0.45
+matplotlib=3.3.3
